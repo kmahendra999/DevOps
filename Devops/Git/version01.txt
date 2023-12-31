@@ -1,3 +1,4 @@
 This is first feature of our application
 this is the new feature with minor alteration
-This is the advancement of previous feature
+This is the advancement of previous featureThis is the advancement of previous feature
+Added few more changes to make it more optimized.
