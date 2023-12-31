@@ -1,2 +1,2 @@
 This is first feature of our application
-
+this is the new feature with minor alteration
